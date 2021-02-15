@@ -1,0 +1,16 @@
+
+git checkout square
+
+240b7237c663d90f2c0c1b68b4634b992a7d0775 - bad
+
+cdd621f16f028b18e88a87a1c6823048521349bb - good
+
+git bisect good cdd621f16f028b18e88a87a1c6823048521349bb
+git bisect bad 240b7237c663d90f2c0c1b68b4634b992a7d0775
+
+python arithmetic.py 
+	if the python file works run git bisect good
+		else run git bisect bad
+git revert
+
+fd8fbca9ca6ba859038f4c2e32d5fac0b0e2e743
