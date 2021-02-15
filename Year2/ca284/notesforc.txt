@@ -1,0 +1,101 @@
+/*********************************************
+		C Notes
+
+Data Types:
+
+	int 	-	%d
+	longInt	-	%ld
+
+	float	-	%f
+	double	-	%lf
+
+	char	-	%c 			for a string assignment you need to | char VARIABLE[number of characters(usually 30)]
+	string	-	%s
+					
+
+	printf("%", VARIABLE)
+	scanf("%", &VARIABLE)
+
+Operators:
+
+	Arithmetic 		+, -, *, %, /
+	Logical 		&&(and), ||(or), !(not)
+	Relational		==, !=, >, <, <=, >=
+	Assignment 		=, +=, -=, ++
+
+Conditonal Operator:
+	
+	(CONDITION)?printf(It is True):printf(It is false)
+
+If Statements:
+
+	if(CONDITION)
+		printf.....
+	else if(CONDITION)
+		printf.....
+	else
+		printf....
+
+Switch Case:
+
+	switch(INPUT)
+	{
+		case 1: print....
+				break;
+		case 2: prin.....
+				break;
+		case etc.........
+		default: print....
+				break;
+	}
+
+For Loop:
+
+	for(VALUE/VARIBLE; CONDITION; ITERATION)
+	{
+		CODE
+	}
+	
+	example.
+				int i;
+				for(i=1; i<5; i++)
+				{
+					printf("Hello\n")
+				}
+
+While Loops:
+
+	while(CONDITION)
+	{
+		code;
+		ITERATION;
+	}
+
+	example.
+				int i;
+				while (i<=5)
+				{
+					printf("Hello");
+					i++;
+				}
+
+
+Functions/Methods:
+	
+
+	first you have to declare your function...
+	int FUNCTION(int VARIABLE);
+
+	then you can add the fuction definition..
+	int FUNCTION(int VARIABLE);
+	{
+		code
+	}
+
+	then you need to call upon the fuction as you usually do.
+
+Arrays:
+
+	 
+
+*********************************************/
