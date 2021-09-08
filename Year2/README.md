@@ -2,6 +2,6 @@
 
 ## Contents
 - Intro to DevOps
-- Data Structures & Algorithms
-- Java
+- Data Structures & Algorithms - Python3
+- Object Oriented Programming - Java
 
