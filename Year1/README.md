@@ -1,5 +1,5 @@
 # First Year Course Material
 
 ## Contents
-- Python2
-- Python3
+- Computer Programming 1 - Python2
+- Computer Programming 2 - Python3
